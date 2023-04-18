@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Ttangsbudaejjigae';
+    src: url('TTTtangsbudaejjigaeB.eot');
+    src: url('TTTtangsbudaejjigaeB.eot?#iefix') format('embedded-opentype'),
+        url('TTTtangsbudaejjigaeB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ttangsbudaejjigae';
+    src: url('TTTtangsbudaejjigaeL.eot');
+    src: url('TTTtangsbudaejjigaeL.eot?#iefix') format('embedded-opentype'),
+        url('TTTtangsbudaejjigaeL.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ttangsbudaejjigae';
+    src: url('TTTtangsbudaejjigaeM.eot');
+    src: url('TTTtangsbudaejjigaeM.eot?#iefix') format('embedded-opentype'),
+        url('TTTtangsbudaejjigaeM.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
